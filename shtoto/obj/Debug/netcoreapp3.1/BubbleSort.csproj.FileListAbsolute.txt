@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\shtoto.exe
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\shtoto.deps.json
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\shtoto.runtimeconfig.json
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\shtoto.runtimeconfig.dev.json
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\shtoto.dll
+C:\Users\student\source\repos\shtoto\shtoto\bin\Debug\netcoreapp3.1\shtoto.pdb
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.csprojAssemblyReference.cache
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.AssemblyInfo.cs
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.dll
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.pdb
+C:\Users\student\source\repos\shtoto\shtoto\obj\Debug\netcoreapp3.1\shtoto.genruntimeconfig.cache
